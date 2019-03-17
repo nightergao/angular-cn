@@ -118,7 +118,7 @@ Workspace-wide `node_modules` dependencies are visible to this project.
 | `styles.sass` | Lists CSS files that supply styles for a project. The extension reflects the style preprocessor you have configured for the project.  |
 | `styles.sass` | 列出为项目提供样式的 CSS 文件。其扩展名和你为项目配置的样式预处理器保持一致。 |
 | `test.ts` | The main entry point for your unit tests, with some Angular-specific configuration. You don't typically need to edit this file.  |
-| `test.ts` | 单元测试的主入口点，其中带有一些特定于 Angular 的配置。一般来说你不必编辑这个问题。 |
+| `test.ts` | 单元测试的主入口点，其中带有一些特定于 Angular 的配置。一般来说你不必编辑这个问题文件。 |
 | `tsconfig.app.json` | Inherits from the workspace-wide `tsconfig.json` file.  |
 | `tsconfig.app.json` | 继承自工作区级的 `tsconfig.json` 文件。 |
 | `tsconfig.spec.json` | Inherits from the workspace-wide `tsconfig.json` file.  |
